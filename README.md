@@ -20,8 +20,10 @@ Download zip or git clone link:<br/>
 >>python3 -m pip install -r requirements<br/>
 >>python widely-fb.py</b><br/>
 >>Type how many custom password u wanto use (integer).<br/>
->>Set Custom Passwords (serial)
+>>Set Custom Passwords (serial).<br/>
+>>Set Range] (integer).
 <br/><br/>
+
 <br/><a href="https://facebook.com/josifkhangg">Follow</a><b>  Official Profile |</b>
 <br/><a href="https://facebook.com/109845683903349">Follow</a><b>  Official Page |</b>
 <br/><a href="https://github.com/josifkhan">Follow</a><b>  Github |</b>
